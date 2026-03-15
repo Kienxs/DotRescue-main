@@ -43,3 +43,7 @@ The mechanics are simple to learn but difficult to master:
 
 ---
 *Developed with logic and passion by Kienxs @ HaUI*
+
+<a href="https://drive.google.com/file/d/1VR1-uKKPioM2Oem2m6RNwc4bkDobosLL/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Play_DotRescue-32CD32?style=for-the-badge&logo=unity&logoColor=white" height="35" />
+  </a>
